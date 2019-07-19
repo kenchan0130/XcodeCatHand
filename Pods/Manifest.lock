@@ -1,0 +1,21 @@
+PODS:
+  - SwiftyPlist (4.0.0)
+
+DEPENDENCIES:
+  - SwiftyPlist (from `https://github.com/kenchan0130/SwiftyPlist.git`)
+
+EXTERNAL SOURCES:
+  SwiftyPlist:
+    :git: https://github.com/kenchan0130/SwiftyPlist.git
+
+CHECKOUT OPTIONS:
+  SwiftyPlist:
+    :commit: b178f75baa13e97f5144073725b5a4720ff82e81
+    :git: https://github.com/kenchan0130/SwiftyPlist.git
+
+SPEC CHECKSUMS:
+  SwiftyPlist: bd2766695fc80da88ff830d796394a8ad41670f5
+
+PODFILE CHECKSUM: 9dca8660b608abefaa6b08c8ff88eb3e5937532b
+
+COCOAPODS: 1.7.4

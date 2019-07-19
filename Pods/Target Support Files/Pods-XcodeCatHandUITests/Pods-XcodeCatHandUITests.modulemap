@@ -1,0 +1,6 @@
+framework module Pods_XcodeCatHandUITests {
+  umbrella header "Pods-XcodeCatHandUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

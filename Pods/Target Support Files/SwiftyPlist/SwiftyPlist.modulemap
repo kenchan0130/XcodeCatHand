@@ -1,0 +1,6 @@
+framework module SwiftyPlist {
+  umbrella header "SwiftyPlist-umbrella.h"
+
+  export *
+  module * { export * }
+}
